@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bio{   
+    background-color: ;
+}
+
+
+.left-half{
+    background-color: rgb(12, 167, 87);
+    width: 50vw;
+    height: 100vh;
+}
+
+.right-half{
+    width: 50vw;
+    height: 100vh;
+    background-color: chocolate;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.images{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+
